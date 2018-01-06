@@ -1,0 +1,57 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/inline.64d334ba8d12943b8cca.bundle.js",
+        "/main.f96332b98baaf6a218da.bundle.js",
+        "/polyfills.2bdfcf6b46170673874e.bundle.js",
+        "/styles.287b6c4947ee0379bd09.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/IMG_0661.JPG",
+        "/assets/IMG_0684.JPG",
+        "/assets/katherine-127.jpg",
+        "/assets/katherine-142.jpg",
+        "/assets/katherine-17.jpg",
+        "/assets/katherine-34.jpg",
+        "/assets/katherine-72.jpg",
+        "/assets/last.jpg",
+        "/assets/slide1-back-blur.jpg",
+        "/assets/slide1-back.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/inline.64d334ba8d12943b8cca.bundle.js": "d3e24774bbe45ca452a5c6304606b4fbea2b6883",
+    "/assets/IMG_0661.JPG": "3a8cb1d188b29de9c322ddd2941d272210a71d8b",
+    "/main.f96332b98baaf6a218da.bundle.js": "b6a39179fe728c50a29ec5a7dbe6bbdd60055362",
+    "/assets/IMG_0684.JPG": "7f7959db1f52ff5c1c94f27ab69beaa83647279e",
+    "/polyfills.2bdfcf6b46170673874e.bundle.js": "5da8ce1ca999f514a786cf4d8dc7e86f13f44e6c",
+    "/assets/katherine-127.jpg": "4e32f35d9131fefe0ff5764997cb3ba89781adf3",
+    "/styles.287b6c4947ee0379bd09.bundle.css": "edaaad7276b87c472874de1c9308fae4dd63b812",
+    "/assets/katherine-142.jpg": "ad2dcdaa7a17b502d4a9751b370b2537ab6f8040",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/assets/katherine-17.jpg": "ca7ac161adca6bc87b4d6ce10c49f231ee78c86a",
+    "/index.html": "0776c75ff93f569682d08871f5ba80fa9a8d3438",
+    "/assets/katherine-34.jpg": "99f935cd91cf7ddc008950f15d67563d63349a37",
+    "/assets/katherine-72.jpg": "d2d498d6b504c724f317d8dc6f242da6409de00d",
+    "/assets/last.jpg": "e2a4b6291f13ee3229e6a301c4320a8f5472961d",
+    "/assets/slide1-back-blur.jpg": "38b3a1589cc7de34387ebaebd129ffb4327028f9",
+    "/assets/slide1-back.jpg": "d6a3f28fc57cf6b43be29ef144cb74ab8194dcaf"
+  }
+}
